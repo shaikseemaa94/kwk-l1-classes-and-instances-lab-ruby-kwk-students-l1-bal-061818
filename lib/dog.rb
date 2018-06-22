@@ -4,5 +4,5 @@ end
 #fido, snoppy, lassie
 
 fido = Dog.new
-snoppy= Dog.new
+snoopy= Dog.new
 lassie = Dog.new
